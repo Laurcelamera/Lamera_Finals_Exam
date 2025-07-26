@@ -1,2 +1,2 @@
-# Lamera_Finals_Exam
-Project for final exam
+# Lamera_Midterms_Exam
+Project for midterm exam
