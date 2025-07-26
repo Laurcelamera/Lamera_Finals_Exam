@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lamera_Midterms.props" />
+</Project>

@@ -1,0 +1,81 @@
+﻿@page "/queue"
+@using Lamera_Midterms.Data
+
+<link href="~/css/site.css" rel="stylesheet" />
+<div class="container">
+    <h1>Welcome to HealthExpress Pharmacy!</h1>
+
+    @if (QueueNumber > 0)
+    {
+        <h2>NOW SERVING: @QueueNumber</h2>
+    }
+
+    @if (Transaction != null)
+    {
+        <h2>Transaction Details</h2>
+        <ul>
+            <li>Queue Number: @QueueNumber</li>
+            <li>Medicine Name: @Transaction.name</li>
+            <li>Generic Name: @Transaction.genericName</li>
+            <li>Price: ₱@Transaction.price</li>
+            <li>Quantity: @Transaction.quantity</li>
+            <li>Total Price: ₱@transactionTotal</li>
+        </ul>
+    }
+
+    <div class="form-group">
+        <label for="medicineName">Medicine Name:</label>
+        <input type="text" id="medicineName" @bind="currentMedicine.name" />
+    </div>
+
+    <div class="form-group">
+        <label for="genericName">Generic Name:</label>
+        <input type="text" id="genericName" @bind="currentMedicine.genericName" />
+    </div>
+
+    <div class="form-group">
+        <label for="price">Price:</label>
+        <input type="number" id="price" @bind="currentMedicine.price" />
+    </div>
+
+    <div class="form-group">
+        <label for="quantity">Quantity:</label>
+        <input type="number" id="quantity" @bind="currentMedicine.quantity" />
+    </div>
+
+    <div class="button-group">
+        <button @onclick="ShowTransaction">Show Transaction</button>
+        <button @onclick="NextinQueue">Next Customer</button>
+    </div>
+</div>
+@code {
+    int QueueNumber = 1;
+    Medicine currentMedicine = new Medicine();
+    Medicine Transaction = null;
+    double transactionTotal = 0;
+
+    private void ShowTransaction()
+    {
+        transactionTotal += currentMedicine.GetTotalTransactionPrice((double)currentMedicine.quantity);
+        ShowTransactionDetails();
+    }
+
+    private void ShowTransactionDetails()
+    {
+        Transaction = new Medicine
+            {
+                name = currentMedicine.name,
+                genericName = currentMedicine.genericName,
+                price = currentMedicine.price,
+                quantity = currentMedicine.quantity,
+            };
+    }
+
+    private void NextinQueue()
+    {
+        QueueNumber++;
+        currentMedicine = new Medicine();
+        transactionTotal = 0;
+        Transaction = null;
+    }
+}

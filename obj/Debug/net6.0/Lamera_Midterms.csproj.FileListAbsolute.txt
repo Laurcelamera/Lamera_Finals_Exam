@@ -1,0 +1,66 @@
+C:\Dev\Software Development\Lamera_Midterms\bin\Debug\net6.0\appsettings.Development.json
+C:\Dev\Software Development\Lamera_Midterms\bin\Debug\net6.0\appsettings.json
+C:\Dev\Software Development\Lamera_Midterms\bin\Debug\net6.0\Lamera_Midterms.staticwebassets.runtime.json
+C:\Dev\Software Development\Lamera_Midterms\bin\Debug\net6.0\Lamera_Midterms.exe
+C:\Dev\Software Development\Lamera_Midterms\bin\Debug\net6.0\Lamera_Midterms.deps.json
+C:\Dev\Software Development\Lamera_Midterms\bin\Debug\net6.0\Lamera_Midterms.runtimeconfig.json
+C:\Dev\Software Development\Lamera_Midterms\bin\Debug\net6.0\Lamera_Midterms.dll
+C:\Dev\Software Development\Lamera_Midterms\bin\Debug\net6.0\Lamera_Midterms.pdb
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.AssemblyInfoInputs.cache
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.AssemblyInfo.cs
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.csproj.CoreCompileInputs.cache
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.RazorAssemblyInfo.cache
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.RazorAssemblyInfo.cs
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\staticwebassets.build.json
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\staticwebassets.development.json
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\staticwebassets\msbuild.Lamera_Midterms.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\staticwebassets\msbuild.build.Lamera_Midterms.props
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lamera_Midterms.props
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lamera_Midterms.props
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\scopedcss\bundle\Lamera_Midterms.styles.css
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\scopedcss\projectbundle\Lamera_Midterms.bundle.scp.css
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.dll
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\refint\Lamera_Midterms.dll
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.pdb
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.genruntimeconfig.cache
+C:\Dev\Software Development\Lamera_Midterms\obj\Debug\net6.0\ref\Lamera_Midterms.dll
+C:\Dev\Lamera_Midterms\bin\Debug\net6.0\appsettings.Development.json
+C:\Dev\Lamera_Midterms\bin\Debug\net6.0\appsettings.json
+C:\Dev\Lamera_Midterms\bin\Debug\net6.0\Lamera_Midterms.staticwebassets.runtime.json
+C:\Dev\Lamera_Midterms\bin\Debug\net6.0\Lamera_Midterms.staticwebassets.endpoints.json
+C:\Dev\Lamera_Midterms\bin\Debug\net6.0\Lamera_Midterms.exe
+C:\Dev\Lamera_Midterms\bin\Debug\net6.0\Lamera_Midterms.deps.json
+C:\Dev\Lamera_Midterms\bin\Debug\net6.0\Lamera_Midterms.runtimeconfig.json
+C:\Dev\Lamera_Midterms\bin\Debug\net6.0\Lamera_Midterms.dll
+C:\Dev\Lamera_Midterms\bin\Debug\net6.0\Lamera_Midterms.pdb
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.AssemblyInfoInputs.cache
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.AssemblyInfo.cs
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.csproj.CoreCompileInputs.cache
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.RazorAssemblyInfo.cache
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.RazorAssemblyInfo.cs
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\scopedcss\bundle\Lamera_Midterms.styles.css
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\scopedcss\projectbundle\Lamera_Midterms.bundle.scp.css
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\staticwebassets.build.json
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\staticwebassets.development.json
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\staticwebassets\msbuild.Lamera_Midterms.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\staticwebassets\msbuild.Lamera_Midterms.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\staticwebassets\msbuild.build.Lamera_Midterms.props
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lamera_Midterms.props
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lamera_Midterms.props
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.dll
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\refint\Lamera_Midterms.dll
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.pdb
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\Lamera_Midterms.genruntimeconfig.cache
+C:\Dev\Lamera_Midterms\obj\Debug\net6.0\ref\Lamera_Midterms.dll
